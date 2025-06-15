@@ -40,7 +40,7 @@ LED Green  → D10
 5. Press button again to restart the cycle
 
 ## 📝 Author
-Created by [creativezone], as part of portfolio for Arduino freelance & embedded systems.
+Created by [ika], as part of portfolio for Arduino freelance & embedded systems.
 
 ---
 
